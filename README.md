@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **minhhieu111097@gmail.com**
 
-*What I cannot create, I do not understand — Richard Feynman.*
+<p align=center font-style=italic>What I cannot create, I do not understand — Richard Feynman.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
