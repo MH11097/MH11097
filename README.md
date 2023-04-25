@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hieulm</h1>
+<h1 align="center">Hi 👋, I'm Hieu Le Minh</h1>
 <h3 align="center">As a passionate data engineer, I possess a deep understanding of data architecture and engineering that allows me to design, build, and maintain complex data infrastructure for businesses.</h3>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -7,9 +7,11 @@
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> ° <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
-- ⚡️ I’m currently working on [SAPO](https://www.sapo.vn/)
+- ⚡️ Data Engineer on [SAPO](https://www.sapo.vn/)
+- 🔍 Learning to become DataDevSecOps
+- 💬 Ask me about Data Engineering, ETL flows, CI/CD
 
-- 📫 How to reach me **minhhieu111097@gmail.com**
+- 📫 How to reach me: [Telegram](https://t.me/hieulm) or [drop a message on LinkedIn](https://www.linkedin.com/in/hieulm110) or via [Email](minhhieu111097@gmail.com)
 
 <p align=center font-style=italic>What I cannot create, I do not understand — Richard Feynman.</p>
 
