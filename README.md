@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Hieu Le Minh</h1>
-<h3 align="center">As a passionate data engineer, I possess a deep understanding of data architecture and engineering that allows me to design, build, and maintain complex data infrastructure for businesses.</h3>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> ° <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> ° <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
-
-- ⚡️ Data Engineer on [BIDV](https://bidv.com.vn/)
-- 🔍 Learning to become DataDevSecOps
-- 💬 Ask me about Data Engineering, ETL flows, CI/CD
-
-- 📫 How to reach me: [Telegram](https://t.me/hieulm) or [drop a message on LinkedIn](https://www.linkedin.com/in/hieulm110) or via [Email](minhhieu111097@gmail.com)
-
-<p align=center font-style=italic>What I cannot create, I do not understand — Richard Feynman.</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mh11097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mh11097" height="30" width="40" /></a>
-<a href="https://fb.com/mhieu110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhieu110" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://mh11097.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=2E86DE&center=true&vCenter=true&width=520&lines=Data+Architect+%40+BIDV;Building+data+platforms+%26+ML%2FAI+systems" alt="Typing SVG" />
+  </a>
 </p>
+
+---
+
+Data Architect at [BIDV](https://bidv.com.vn/), working on enterprise data platforms, lakehouse architecture, and ML/AI systems for banking.
+
+🌐 **Full portfolio, projects & blog →** [**mh11097.github.io**](https://mh11097.github.io/)
+
+<p align="left">
+  <a href="https://mh11097.github.io/"><img src="https://img.shields.io/badge/Portfolio-2E86DE?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://mh11097.github.io/cv.html"><img src="https://img.shields.io/badge/CV-4CAF50?style=flat&logo=readme&logoColor=white" alt="CV" /></a>
+  <a href="https://www.linkedin.com/in/hieulm110"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:minhhieu111097@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/hieulm"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
+
+<p align="left"><i>"What I cannot create, I do not understand." — Richard Feynman</i></p>
