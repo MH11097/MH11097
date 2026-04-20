@@ -16,7 +16,7 @@ Data Architect at [BIDV](https://bidv.com.vn/), working on enterprise data platf
   <a href="https://mh11097.github.io/"><img src="https://img.shields.io/badge/Portfolio-2E86DE?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://mh11097.github.io/cv.html"><img src="https://img.shields.io/badge/CV-4CAF50?style=flat&logo=readme&logoColor=white" alt="CV" /></a>
   <a href="https://www.linkedin.com/in/hieulm110"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:minhhieu111097@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:work.hieulm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://t.me/hieulm"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
