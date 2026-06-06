@@ -10,7 +10,7 @@
 
 Data Architect at [BIDV](https://bidv.com.vn/), working on enterprise data platforms, lakehouse architecture, and ML/AI systems for banking.
 
-🌐 **Full portfolio, projects & blog →** [**mh11097.github.io**](https://mh11097.github.io/)
+🌐 **Full portfolio, projects & blog →** [**hieulm.io.vn**](https://hieulm.io.vn/) https://hieulm.io.vn/
 
 <p align="left">
   <a href="https://mh11097.github.io/"><img src="https://img.shields.io/badge/Portfolio-2E86DE?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
